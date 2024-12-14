@@ -1,0 +1,2 @@
+# Synthetic-Financial-Data-Predictive-Modeling-with-CGANs-and-LSTM-Insights-from-2008-Crisis
+An advanced Conditional Generative Adversarial Network (CGAN) and LSTM-based hybrid framework for generating synthetic financial data and predicting market movements. Features include attention mechanisms, stress-testing under the 2008 financial crisis, and integration of technical indicators for enhanced predictive accuracy.
